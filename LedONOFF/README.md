@@ -5,4 +5,4 @@ Tool/Technology used:
 2. LED set-up on breadboad
 2. Apache2 server
 3. HTML & php
-4. Install WiringPi https://github.com/WiringPi/WiringPi
+4. Install WiringPi to configure GPIO pins https://github.com/WiringPi/WiringPi
